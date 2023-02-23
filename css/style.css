@@ -262,7 +262,7 @@ body {
   width: 130px;
   padding: 50px;
   height: 130px;
-  background: url("https://isalvation.github.io/site/css/source/img/afterabout1.svg") no-repeat;
+  background: url(../source/img/afterabout2.svg) no-repeat;
   background-position: center;
   margin: 0 auto;
   background-size: 45%;
