@@ -240,7 +240,7 @@ body {
   width: 130px;
   padding: 50px;
   height: 130px;
-  background: url(https://github.com/iSalvation/site/tree/main/source/img/afterabout1.svg) no-repeat;
+  background: url("https://github.com/iSalvation/site/tree/main/source/img/afterabout1.svg") no-repeat;
   background-position: center;
   margin: 0 auto;
   background-size: 55%;
@@ -251,7 +251,7 @@ body {
   width: 130px;
   padding: 50px;
   height: 130px;
-  background: url(https://github.com/iSalvation/site/tree/main/source/img/afterabout3.svg) no-repeat;
+  background: url("https://github.com/iSalvation/site/tree/main/source/img/afterabout3.svg") no-repeat;
   background-position: center;
   margin: 0 auto;
   background-size: 55%;
@@ -262,7 +262,7 @@ body {
   width: 130px;
   padding: 50px;
   height: 130px;
-  background: url(https://github.com/iSalvation/site/tree/main/source/img/afterabout2.svg) no-repeat;
+  background: url("https://github.com/iSalvation/site/tree/main/source/img/afterabout2.svg") no-repeat;
   background-position: center;
   margin: 0 auto;
   background-size: 45%;
